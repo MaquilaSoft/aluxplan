@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "include-media": "^2.0.0",
     "next": "13.4.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1"
   }
 }

@@ -5,6 +5,15 @@
   padding-block: 10px;
   width: 100vw;
   position: fixed;
+  color: white;
+}
+
+.logoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  font-size: 12px;
 }
 
 .list {
@@ -12,7 +21,6 @@
   justify-content: space-between;
   align-items: center;
   list-style: none;
-  width: 300px;
   padding-inline: 5px;
 }
 

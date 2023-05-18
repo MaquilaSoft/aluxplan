@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  padding-block: 10px;
+  width: 100vw;
+  position: fixed;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  width: 300px;
+  padding-inline: 5px;
+}
+
+ 
